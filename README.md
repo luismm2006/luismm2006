@@ -12,9 +12,5 @@ Soy un desarrollador en constante movimiento. Me gusta mantenerme activo creando
 ![](https://streak-stats.demolab.com/?user=luismm2006&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=luismm2006&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
